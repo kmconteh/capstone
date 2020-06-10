@@ -13,6 +13,9 @@ Feature Selection
 Models- comparative model performance, summary, project recommendations
 
 Technology Used:
+
 Python (pandas, numpy, sklearn, matplotlib, seaborn)
+
 Plotly
+
 Excel
