@@ -17,7 +17,7 @@ Exploratory Data Analysis
 
 Feature Selection
 
-Models- comparative model performance, summary, project recommendations
+Models- comparative model performance, summary, next steps
 
 
 
